@@ -1,0 +1,13 @@
+:root{
+    /*here home-page means bg-page color*/
+    --primary-home-page: rgb(0,0,0.65);
+    --secondary-home-page: rgb(0,0,0,0);
+    --primary-btn-color: rgb(254,48,144);
+    --secondary-btn-color: rgb(64, 118, 255);
+    --white: rgb(255,255,255);
+    --nav-bg-color: rgb(140, 140, 140);
+    --form-border-color: rgb(219, 219, 219);
+    --linear-gradient-color1: rgb(254,48,144);
+    --linear-gradient-color2: rgb(64, 118, 255);
+    --box-shadow-color: rgba(0,0,0,0.30)
+}
